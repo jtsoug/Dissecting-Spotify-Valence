@@ -23,4 +23,9 @@ Spotify offers the following information:
 ## Objectives
 
 1) Understand the influence of various track features on valence.
-2) Predict valence based on track features,
+2) Predict valence based on track features.
+
+<img width="460" alt="spotify-logo-transparent-high-resolution-4-1544236771-1" src="https://github.com/user-attachments/assets/7763b273-3444-4c93-982c-5bc60ec9a77f">
+
+
+
